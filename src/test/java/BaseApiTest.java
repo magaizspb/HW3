@@ -1,8 +1,7 @@
 
 
 import java.io.IOException;
-
-abstract class BaseApiTest {
+ abstract class BaseApiTest {
     private final String token;
     private final String baseUri;
     private final String userName;
